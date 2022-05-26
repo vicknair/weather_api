@@ -1,5 +1,7 @@
 NSLS Code Test weather_api
 ===============================
+Author: Karen Vicknair
+
 
 __SETUP__
 
